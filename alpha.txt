@@ -1,3 +1,4 @@
 Heelo ALL,
 
-Welcome To Aplha DSA Tutorial
+Welcome To Aplha DSA Tutorial.
+We will start DSA from today onwards
